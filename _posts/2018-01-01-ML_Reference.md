@@ -1,6 +1,6 @@
 ---
-title: "캐글 스터디"
-date: 2019-01-25 00:00:00 -0900
+title: "ML/DL Reference"
+date: 2019-01-01 00:00:00 -0900
 categories: ML Engineer
 ---
 
