@@ -1,5 +1,5 @@
 ---
-title: "lime basic example"
+title: "LIME(Local Interpretable Model-agnostic Explanation) basic example"
 date: 2019-02-27 00:00:00 -0900
 categories: ML Engineer
 ---
