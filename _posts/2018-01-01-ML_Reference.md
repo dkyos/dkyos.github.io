@@ -21,3 +21,6 @@ categories: ML Engineer
 
 * SDS 테크토닉 2018
   * [링크](https://www.samsungsds.com/global/ko/about/event/techtonic2018.html)
+  
+* 좋은 블로그 모음
+  * [AI 연구자](http://freesearch.pe.kr/)
