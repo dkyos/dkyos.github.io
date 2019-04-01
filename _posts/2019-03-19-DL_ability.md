@@ -4,16 +4,25 @@ date: 2019-03-19 00:00:00 -0900
 categories: ML Engineer
 ---
 
-* 데이터 타입에 따른 머신러닝 분류
+* 데이터 분석 도구 스킬
+  * python
+  * ELK
+  * spark 
+* 데이터 타입에 따른 주요 머신러닝/딥러닝 알고리즘 이해 
   * 텍스트 
+    * RNN/LSTM
+    * CharCNN
+    * BERT
   * 수치
+    * XGBoost
   * 이미지
+    * CNN
   * 음성
-* 머신러닝/딥러닝 알고리즘에 분류
+* 머신러닝/딥러닝 주요 알고리즘 이해
   * 지도학습
-    * XGBoost, CNN, RNN
+    * XGBoost, CNN, RNN/LSTM
   * 비지도학습
-    * GAN
+    * k-means, GAN
   * 강화학습
     * DQN    
 * 응용 분야
