@@ -1,5 +1,5 @@
 ---
-title: "ML/DL 역량이란?"
+title: "ML/DL 역량이란? (작성중)"
 date: 2019-03-19 00:00:00 -0900
 categories: ML Engineer
 ---
