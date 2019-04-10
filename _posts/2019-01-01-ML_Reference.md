@@ -5,7 +5,8 @@ categories: ML Engineer
 ---
 
 * 캐글 관련 정보
-  *[머신러닝 경진대회 캐글 참가기 - Techtonic 2018](https://www.youtube.com/watch?v=eMfOv8eVAdk)
+  * [머신러닝과 데이터사이언스 경진대회 플랫폼인 캐글을 소개](https://www.youtube.com/watch?v=VNOYpNItpdI)
+  * [머신러닝 경진대회 캐글 참가기 - Techtonic 2018](https://www.youtube.com/watch?v=eMfOv8eVAdk)
 
 * 캐글러를 대상으로 데이터과학과 머신러닝에 대한 설문조사의 응답을 파이썬 데이터 시각화 툴로 분석
   * [동영상](https://www.youtube.com/playlist?list=PLaTc2c6yEwmoREAj3xLEqT71C9I3QvAlm)
