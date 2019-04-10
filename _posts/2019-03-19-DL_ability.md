@@ -8,6 +8,16 @@ categories: ML Engineer
   * python
   * ELK
   * spark 
+* 딥러닝 Lib/FW
+  * Tensorflow
+  * PyTorch
+  * Keras
+* 머신러닝 Libs
+  * Scikit-learn 
+* MLP (Natural Language Processing) libs
+  * NLTK (Natural Language Toolkit)
+  * Spacy 
+  * Gensim (
 * 데이터 타입에 따른 주요 머신러닝/딥러닝 알고리즘 이해 
   * 텍스트 
     * RNN/LSTM
